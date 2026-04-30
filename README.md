@@ -3,17 +3,21 @@ This is a basic Machine Learning project where I built a model to classify iris 
 
 ## Dataset
 
-Used the famous Iris dataset:
+Used this Iris dataset:
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
 
 ## What I did
 Loaded and explored the dataset
-Trained ML models
-Tested and evaluated performance
+Performed basic data preprocessing
+Visualized relationships between features
+Split data into training and testing sets
+Applied Machine Learning algorithms
+Evaluated model performance
 
 ##  Models Used
-Logistic Regression
-KNN
+In this project, I experimented with simple and effective ML algorithms such as:
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
 
 ## Learning
 
